@@ -1,0 +1,10 @@
+{
+ "match": "ANY"
+ "node": [
+   {
+     "field": "filterbox.field.CHANNEL_ID",
+     "regex": "com.brave.browser.ad*"
+   }
+]
+
+}
